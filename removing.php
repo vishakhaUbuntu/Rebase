@@ -6,3 +6,4 @@ Create a new branch from this point from local
 someone is an asshole
 new code added to master
 commit to staging
+new code added to master
