@@ -5,5 +5,6 @@ function new(){
     echo 'master';
     echo 'test branch';
     echo 'commit added to increase history';
+    echo 'commit through sourcetree'
 }
 ?>
