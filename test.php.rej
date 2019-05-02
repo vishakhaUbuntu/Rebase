@@ -1,0 +1,9 @@
+diff a/test.php b/test.php	(rejected hunks)
+@@ -5,5 +5,6 @@
+     echo 'master';
+     echo 'test branch';
+     echo 'commit added to increase history';
++    echo 'commit through sourcetree'
+ }
+ ?>
+\ No newline at end of file
