@@ -5,6 +5,7 @@ function new(){
     echo 'master';
     echo 'test branch';
     echo 'commit added to increase history';
-    echo 'commit through sourcetree'
+    echo 'commit through sourcetree';
+    echo 'code from sourcetreebranch added to cherry pick';
 }
 ?>
