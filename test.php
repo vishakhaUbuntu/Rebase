@@ -7,5 +7,6 @@ function new(){
     echo 'commit added to increase history';
     echo 'commit through sourcetree';
     echo 'code from sourcetreebranch added to cherry pick';
+    echo 'to not go as cherrypick';
 }
 ?>
